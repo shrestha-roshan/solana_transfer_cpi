@@ -1,0 +1,13 @@
+/home/rosh/solana_transfer/transfer-solana-program/target/release/deps/quote-cc97183617b8e884.rmeta: /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/home/rosh/solana_transfer/transfer-solana-program/target/release/deps/libquote-cc97183617b8e884.rlib: /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/home/rosh/solana_transfer/transfer-solana-program/target/release/deps/quote-cc97183617b8e884.d: /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs:

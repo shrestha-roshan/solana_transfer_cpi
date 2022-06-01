@@ -1,0 +1,12 @@
+/home/rosh/solana_transfer/transfer-solana-program/target/debug/deps/proc_macro2-88e497b48ee25b3c.rmeta: /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/lib.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/marker.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/parse.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/detection.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/fallback.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/wrapper.rs
+
+/home/rosh/solana_transfer/transfer-solana-program/target/debug/deps/libproc_macro2-88e497b48ee25b3c.rlib: /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/lib.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/marker.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/parse.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/detection.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/fallback.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/wrapper.rs
+
+/home/rosh/solana_transfer/transfer-solana-program/target/debug/deps/proc_macro2-88e497b48ee25b3c.d: /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/lib.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/marker.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/parse.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/detection.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/fallback.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/wrapper.rs
+
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/lib.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/marker.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/parse.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/detection.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/fallback.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.38/src/wrapper.rs:
