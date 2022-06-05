@@ -1,0 +1,12 @@
+/home/rosh/solana_transfer_cpi/target/debug/deps/generic_array-eebfb1e8c4f43e92.rmeta: /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/lib.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/hex.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impls.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impl_serde.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/arr.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/functional.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/iter.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/sequence.rs
+
+/home/rosh/solana_transfer_cpi/target/debug/deps/generic_array-eebfb1e8c4f43e92.d: /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/lib.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/hex.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impls.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impl_serde.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/arr.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/functional.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/iter.rs /home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/sequence.rs
+
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/lib.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/hex.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impls.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impl_serde.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/arr.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/functional.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/iter.rs:
+/home/rosh/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/sequence.rs:

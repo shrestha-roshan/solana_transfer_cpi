@@ -1,7 +1,7 @@
 use borsh::BorshDeserialize;
 use solana_program::program_error::ProgramError;
 
-use crate::state::{TransferInput, WithdrawInput};
+use crate::state::{TransferInput, WithdrawInput, InitTokenInput, WithdrawTokenInput};
 pub enum TransferInstruction{ 
     /// Create a transfer with a escrow account created and funded by sender
     /// account should have a total_lamport= program_rent_account+amount_to_send.
@@ -20,7 +20,11 @@ pub enum TransferInstruction{
     ///
     /// `[writable]` escrow account, it will hold all necessary info about the trade.
     /// `[signer]` receiver account
-    Withdraw(WithdrawInput)
+    Withdraw(WithdrawInput),
+
+    InitTokenTransfer(InitTokenInput),
+
+    WithdrawToken(WithdrawTokenInput),
 }
 
 impl TransferInstruction{
@@ -34,6 +38,12 @@ impl TransferInstruction{
             )),
             1 => Ok(TransferInstruction::Withdraw(
                 WithdrawInput::try_from_slice(data)?,
+            )),
+            2 => Ok(TransferInstruction::InitTokenTransfer(
+                InitTokenInput::try_from_slice(data)?,
+            )),
+            3 => Ok(TransferInstruction::WithdrawToken(
+                WithdrawTokenInput::try_from_slice(data)?,
             )),
             _ => Err(ProgramError::InvalidInstructionData),
         }

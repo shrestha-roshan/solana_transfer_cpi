@@ -22,6 +22,7 @@ pub struct TransferData {
     pub sender: Pubkey,
 }
 
+
 impl TransferData {
     pub fn new(data: TransferInput, sender: Pubkey) -> Self {
         TransferData { 
@@ -31,4 +32,26 @@ impl TransferData {
             sender,
         }
     }
+}
+
+
+#[derive(Clone, Debug, PartialEq, BorshDeserialize, BorshSerialize)]
+pub struct InitTokenInput {
+    pub start_time: UnixTimestamp,
+    pub amount: u64,
+    pub token_mint: Pubkey,
+}
+
+#[derive(Clone, Debug, PartialEq, BorshDeserialize, BorshSerialize)]
+pub struct WithdrawTokenInput{
+    pub amount: u64
+}
+
+#[derive(Clone, Debug, PartialEq, BorshDeserialize, BorshSerialize)]
+pub struct TransferToken {
+    pub start_time: UnixTimestamp,
+    pub amount: u64,
+    pub token_mint: Pubkey,
+    pub sender: Pubkey,
+    pub receiver:Pubkey,
 }
